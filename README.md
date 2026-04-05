@@ -4,7 +4,7 @@ Console-based Battleship game in Java using OOP, random ship placement, and inte
 
 A console-based Battleship game developed in Java, applying object-oriented programming principles and game logic.
 
-## 🚀 Features
+Features
 - Random ship placement
 - Hit and miss detection
 - Multiple ships with different states
